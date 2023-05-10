@@ -1,0 +1,24 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("img/creative-watercolor-galaxy-background/5018677.jpg");
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+
+  background-image: url("https://img.freepik.com/free-vector/watercolor-galaxy-background_79603-2384.jpg?w=1060&t=st=1683564086~exp=1683564686~hmac=678df6dc5c910d2b4def65c91028cc38a94285954a468b36184e2e4b648d3c65");
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+
+  background-image: url("img/blue-galaxy-background/99.jpg");
+}
+#myCarousel {
+  height: 500px;
+}
+
+.carousel-item.bg-h {
+  min-height: 500px;
+}
